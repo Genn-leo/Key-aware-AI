@@ -1,0 +1,6 @@
+explorer.exe
+svchost.exe
+chrome.exe
+python.exe
+Teams.exe
+OneDrive.exe

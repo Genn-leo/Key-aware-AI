@@ -1,0 +1,3 @@
+chrome.exe - typed into background process
+bank login: admin_user
+bank pass: mybankpassword!

@@ -1,0 +1,6 @@
+GetWindowTextW
+SendMessageW
+CreateFile
+ReadFile
+WriteFile
+OpenProcess

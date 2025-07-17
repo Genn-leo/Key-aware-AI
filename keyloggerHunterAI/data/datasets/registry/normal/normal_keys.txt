@@ -1,0 +1,3 @@
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run
+HKEY_CURRENT_USER\Software\Microsoft\Windows\Shell
+HKEY_CLASSES_ROOT\Directory\Background

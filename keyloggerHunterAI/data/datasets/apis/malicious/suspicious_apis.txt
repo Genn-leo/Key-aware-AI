@@ -1,0 +1,6 @@
+SetWindowsHookEx
+GetAsyncKeyState
+GetForegroundWindow
+GetKeyState
+GetKeyboardState
+SetWinEventHook

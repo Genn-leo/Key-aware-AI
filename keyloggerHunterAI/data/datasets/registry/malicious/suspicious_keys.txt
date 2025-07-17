@@ -1,0 +1,4 @@
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run\kl
+HKEY_CURRENT_USER\Software\Spyware
+HKEY_USERS\.DEFAULT\Software\Microsoft\KeyLogger
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\kl_service
